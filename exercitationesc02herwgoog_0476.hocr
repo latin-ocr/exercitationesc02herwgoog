@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./exercitationesc02herwgoog/exercitationesc02herwgoog_0476.png"; bbox 0 0 2974 5016; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 314 1975 1087 2062">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 314 1975 1087 2062">
+     <span class='ocr_line' id='line_1_1' title="bbox 314 1975 1087 2062; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 314 1975 486 2062; x_wconf 91' lang='lat' dir='ltr'>NOVA</span> <span class='ocrx_word' id='word_1_2' title='bbox 519 1975 812 2060; x_wconf 85' lang='lat' dir='ltr'><strong>ADDENDA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 848 1975 1087 2060; x_wconf 84' lang='lat' dir='ltr'>ORITIOA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 2609 1217 2684">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 2609 1217 2684">
+     <span class='ocr_line' id='line_1_2' title="bbox 191 2609 1217 2684; baseline 0.003 -12"><span class='ocrx_word' id='word_1_4' title='bbox 191 2609 456 2674; x_wconf 79' lang='lat' dir='ltr'><strong>MEINEKII</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 483 2609 647 2684; x_wconf 83' lang='lat' dir='ltr'><strong>OPUS,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 675 2609 824 2682; x_wconf 91' lang='lat' dir='ltr'>QUOD</span> <span class='ocrx_word' id='word_1_7' title='bbox 849 2611 1217 2675; x_wconf 85' lang='lat' dir='ltr'>INSGRIBITUR</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 310 2915 1094 2979">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 310 2915 1094 2979">
+     <span class='ocr_line' id='line_1_3' title="bbox 310 2915 1094 2979; baseline 0.004 -3"><span class='ocrx_word' id='word_1_8' title='bbox 310 2917 557 2978; x_wconf 81' lang='lat' dir='ltr'><strong>FRAGMENTA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 578 2915 818 2978; x_wconf 82' lang='lat' dir='ltr'>COMIOORUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 840 2917 1094 2979; x_wconf 85' lang='lat' dir='ltr'><strong>GRAECORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1492 5016">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1492 5016">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1492 5016; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1492 5016; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
